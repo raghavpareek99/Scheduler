@@ -1,17 +1,5 @@
-# React Google Calendar Clone
+Hosted Link : https://raghav-pareek-exuberant.netlify.app
 
-A react demo of google calendar
-
-## Watch it being used live
-
-[React Google Calendar Clone](https://react-google-calendar-clone.netlify.com/)
-
-## Running the Demo
-
-1.  Clone the repo
-2.  `cd react-google-calendar-clone`
-3.  `yarn start`
-4.  Change tabs to the browser
 
 ## Features
 
